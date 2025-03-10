@@ -1,84 +1,182 @@
-# 🚀 Mohammed Jabir's HackerRank Solutions Repository
+# 🏆 HackerRank Solutions Repository
 
-Welcome to my repository of HackerRank challenges! This is where I track my progress and growth through problem-solving. The problems are categorized into three main sections: **Skills**, **Difficulty**, and **Subdomains**. Dive in and explore my journey in coding and algorithmic mastery! 
+<div align="center">
+  <img src="https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=python" alt="Python">
+  <img src="https://img.shields.io/badge/Platform-HackerRank-1ba94c?style=for-the-badge&logo=hackerrank" alt="HackerRank">
+  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" alt="Status">
+  <br>
+  <a href="https://www.hackerrank.com/profile/mohammedjabir__">
+    <img src="https://img.shields.io/badge/View_My_HackerRank_Profile-1ba94c?style=for-the-badge&logo=hackerrank" alt="HackerRank Profile">
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif" width="400px">
+</div>
+
+## 📋 Table of Contents
+- [Introduction](#-introduction)
+- [Skills](#-skills)
+- [Difficulty Levels](#-difficulty-levels)
+- [Subdomains](#-subdomains)
+- [Repository Structure](#-repository-structure)
+- [How to Navigate](#-how-to-navigate)
+- [Contributing](#-contributing)
+- [Contact](#-contact)
+
+## 🚀 Introduction
+
+Welcome to my HackerRank Solutions repository! This collection contains my solutions to various HackerRank challenges, all implemented in Python. The repository is organized by skill levels, difficulty, and subdomains to make navigation easier.
+
+<div align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="400px">
+</div>
+
+## 💪 Skills
+
+This repository includes solutions for challenges across different skill levels:
+
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="60px"></td>
+    <td><b>Problem Solving (Basic)</b>: Fundamental algorithms and data structures</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="60px"></td>
+    <td><b>Python (Basic)</b>: Core Python concepts and syntax</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="60px"></td>
+    <td><b>Problem Solving (Advanced)</b>: Complex algorithms and optimization techniques</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="60px"></td>
+    <td><b>Python (Intermediate)</b>: Advanced Python features and programming patterns</td>
+  </tr>
+</table>
+
+## 🎯 Difficulty Levels
+
+The challenges are organized according to their difficulty:
+
+<div align="center">
+  <img src="https://media.giphy.com/media/SqmkZ5IdwzTP2/giphy.gif" width="180px">
+  <br>
+  <table>
+    <tr>
+      <td align="center">🟢 <b>Easy</b></td>
+      <td align="center">🟡 <b>Medium</b></td>
+      <td align="center">🔴 <b>Hard</b></td>
+    </tr>
+  </table>
+</div>
+
+## 🧩 Subdomains
+
+Solutions are classified under the following Python subdomains:
+
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li>📝 Introduction</li>
+        <li>🔢 Basic Data Types</li>
+        <li>📊 Strings</li>
+        <li>🔍 Sets</li>
+        <li>➗ Math</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>🔄 Itertools</li>
+        <li>📚 Collections</li>
+        <li>📅 Date and Time</li>
+        <li>⚠️ Errors and Exceptions</li>
+        <li>🏛️ Classes</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>🛠️ Built-Ins</li>
+        <li>🔄 Python Functionals</li>
+        <li>🧬 Regex and Parsing</li>
+        <li>📑 XML</li>
+        <li>🎁 Closures and Decorators</li>
+        <li>🧮 Numpy</li>
+        <li>🐛 Debugging</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+## 📂 Repository Structure
+
+The repository is organized in a structured way for easy navigation:
+
+```
+HackerRank-Solutions/
+├── Skills/
+│   ├── Problem Solving (Basic)/
+│   ├── Python (Basic)/
+│   ├── Problem Solving (Advanced)/
+│   └── Python (Intermediate)/
+├── Difficulty/
+│   ├── Easy/
+│   ├── Medium/
+│   └── Hard/
+└── Subdomains/
+    ├── Introduction/
+    ├── Basic Data Types/
+    └── ...
+```
+
+<div align="center">
+  <img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="400px">
+</div>
+
+## 🧭 How to Navigate
+
+Each solution file is named according to the problem title and contains:
+- The problem statement as a comment
+- My Python solution
+- Time and space complexity analysis where applicable
+- Example inputs and outputs
+
+You can navigate this repository in three ways:
+1. By **Skill Level** - If you're focusing on specific skill development
+2. By **Difficulty** - If you're looking for challenges based on complexity
+3. By **Subdomain** - If you're interested in specific Python topics
+
+## 🤝 Contributing
+
+Feel free to explore and use these solutions as a reference for your own learning. If you have any suggestions or improvements:
+
+1. Fork the repository
+2. Create a new branch (`git checkout -b feature/improvement`)
+3. Commit your changes (`git commit -m 'Add some improvement'`)
+4. Push to the branch (`git push origin feature/improvement`)
+5. Open a Pull Request
+
+## 📬 Contact
+
+<div align="center">
+  <a href="https://github.com/MohammedJabir18">
+    <img src="https://img.shields.io/badge/GitHub-MohammedJabir18-181717?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
+  <a href="https://www.hackerrank.com/profile/mohammedjabir__">
+    <img src="https://img.shields.io/badge/HackerRank-mohammedjabir__-1ba94c?style=for-the-badge&logo=hackerrank" alt="HackerRank">
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="400px">
+</div>
 
 ---
 
-## 🎯 Skills
-My skill progression is reflected in the following categories:
-- **Problem Solving (Basic)** 💡  
-  _Laying the foundation with introductory challenges._
-- **Python (Basic)** 🐍  
-  _Getting started with Python programming essentials._
-- **Problem Solving (Advanced)** 🚀  
-  _Taking on more intricate problems that require deeper algorithmic thinking._
-- **Python (Intermediate)** 🔥  
-  _Enhancing my Python expertise with intermediate exercises._
-
----
-
-## ⚡ Difficulty
-Each problem is also classified by its level of difficulty:
-- **Easy** 🌟  
-  _Ideal for beginners or a quick practice session._
-- **Medium** 🔥  
-  _A step up to challenge and improve your skills._
-- **Hard** 💎  
-  _Complex puzzles for seasoned problem-solvers._
-
----
-
-## 📚 Subdomains
-Explore problems based on specific topics:
-- **Introduction** 👋  
-- **Basic Data Types** 🔢  
-- **Strings** 💬  
-- **Sets** ✨  
-- **Math** ➕  
-- **Itertools** 🔄  
-- **Collections** 📦  
-- **Date and Time** ⏰  
-- **Errors and Exceptions** 🚧  
-- **Classes** 🏗️  
-- **Built-Ins** ⚙️  
-- **Python Functionals** 🎭  
-- **Regex and Parsing** 🔍  
-- **XML** 📰  
-- **Closures and Decorators** 🔐  
-- **Numpy** 📊  
-- **Debugging** 🐞  
-
----
-
-## 🎨 Visuals & Animations
-To add a splash of color and movement, here are some animated badges and GIFs:
-
-![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/USERNAME/REPOSITORY/ci.yml?style=for-the-badge)
-![GitHub top language](https://img.shields.io/github/languages/top/USERNAME/REPOSITORY?style=for-the-badge)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/USERNAME/REPOSITORY?style=for-the-badge)
-
-> **Tip:** Replace `MohammedJabir18` and `HackerRank-Solutions` with your actual GitHub username and repository name.
-
-To further captivate your audience, consider embedding animated GIFs like this one:
-
-![Coding Animation](https://media.giphy.com/media/3o7buirYcmV5nSwIRW/giphy.gif)
-
----
-
-## 🔗 Useful Links
-- **HackerRank Profile:** [Mohammed Jabir](https://www.hackerrank.com/profile/mohammedjabir__)
-- **Repository Link:** [GitHub Repository](https://github.com/MohammedJabir18/HackerRank-Solutions.git)
-
----
-
-## 📈 Progress Tracker
-I continuously update this repository with new solutions and improvements. Follow my commits and pull requests as I tackle new challenges. Feedback, suggestions, and collaboration are always welcome!
-
----
-
-## 💬 Connect with Me
-Have questions or ideas? Feel free to open an issue or reach out directly via [GitHub](https://github.com/MohammedJabir18). Let’s keep coding and growing together! 🎉
-
----
-
-*Happy Coding!*
+<div align="center">
+  <p>⭐ Star this repository if you find it helpful! ⭐</p>
+  <p>Happy Coding! 👨‍💻</p>
+</div>
