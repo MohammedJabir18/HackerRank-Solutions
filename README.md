@@ -25,7 +25,7 @@
 - [🚀 Introduction](#-introduction)
 - [📚 Topics](#-topics)
   - [🧮 Algorithms](#-algorithms)
-  - [🏗️ Data Structures](#-data-structures)
+  - [🏗️ Data Structures](#️-data-structures)
   - [📐 Mathematics](#-mathematics)
   - [🧠 Artificial Intelligence](#-artificial-intelligence)
   - [🐍 Python](#-python)
